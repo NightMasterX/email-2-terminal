@@ -1,2 +1,8 @@
 # email-2-terminal
-A Really basic project which allows you to see how many emails you have in your inbox. Uses POP3 using poplib!
+How to use this:<br><br>
+
+1: Clone or Download the Repository<br>
+2: Go to the EMain.py file and run it<br>
+3: Terminal will ask for inputs
+<BR><BR>
+DONE! It should now show you how many emails you have in your inbox :)
