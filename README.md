@@ -1,5 +1,5 @@
 # email-2-terminal
-How to use this:<br><br>
+How to use this:<br>
 
 1: Clone or Download the Repository<br>
 2: Go to the EMain.py file and run it<br>
